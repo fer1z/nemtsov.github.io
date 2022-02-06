@@ -2,9 +2,7 @@
 
 ## About me
 
-```
 I'm a project manager at Wargaming, main spheres of interest is content distribution, disaster recovery proccesses and education activities. 
-```
 
 ## Contacts
   Mail: nemtsov @ outlook.com
